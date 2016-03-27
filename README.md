@@ -6,5 +6,5 @@ The dev_cmd contains the source code for:
 - ANT+ sensor receiving
 - Middle ware for singal translatation, weighted balance calculation, and rewrapping package
 - Controller emulator code using GIMX library
-- 
+
 The dev_with_GUI contains the GUI frontend and existed code in dev_cmd
